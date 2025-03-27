@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer components{
+  .mycontainer{
+    @apply container px-40 py-16 mx-auto;
+  }
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
